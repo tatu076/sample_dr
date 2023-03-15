@@ -41,7 +41,7 @@ public final class Main extends JavaPlugin implements Listener {
    * プレイヤーがスニークを開始/終了する際に起動されるイベントハンドラ。
    *
    * @param e イベント
-   *          Git用コメント追加
+   *          Git用コメント追加プルリクエスト練習
    */
   @EventHandler
   public void onPlayerToggleSneak(PlayerToggleSneakEvent e) throws IOException {
